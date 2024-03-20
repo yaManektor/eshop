@@ -1,0 +1,37 @@
+.products {
+    margin-top: 20px;
+}
+
+.products .row {
+    width: 100%;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.products .row .btn {
+    margin-top: 0;
+    width: 250px;
+}
+
+.products img {
+    width: 100px;
+    border-radius: 9px;
+    margin-right: 10px;
+}
+
+.products .btn {
+    margin-top: 40px;
+    margin-left: 0;
+    background: #ff5644;
+    width: 300px;
+    height: 50px;
+}
+
+.btn.deleteAll {
+    margin: 20px 0 10px;
+    line-height: 140%;
+    padding: 5px 0;
+    height: auto;
+}

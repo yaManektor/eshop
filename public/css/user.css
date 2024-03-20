@@ -1,0 +1,23 @@
+.user-info {
+    margin: 10px 0;
+    background: #fafafa;
+    border: 1px solid silver;
+    padding: 20px 3%;
+    width: 94%;
+}
+
+.user-info .btn {
+    margin-left: 0;
+    margin-top: 20px;
+}
+
+form[enctype="multipart/form-data"] input {
+    width: 220px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+}
+
+.user_image {
+    width: 200px;
+    margin-top: 30px;
+}
